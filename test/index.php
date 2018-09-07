@@ -13,7 +13,8 @@ and open the template in the editor.
         <?php
         // put your code here
         
-          echo "prova effettuata su branch1"
+          echo "prova effettuata su branch1";
+        echo "ciao ciao";
         ?>
     </body>
 </html>
